@@ -32,3 +32,13 @@
 .col-md-10 {width:74.99%};
 .col-md-11 {width:91.66%} ;
 .col-md-12 {width:100%}}
+
+h1 {
+    align: center;
+    margin-bottom: 15px;
+}
+
+section{
+background-color: bisque;
+border: 1px solid black;
+}
