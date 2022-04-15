@@ -3,10 +3,25 @@
   }
 
 body{
-    background-color: coral;
+    background-color: lightgray;
+}
+.brand{
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 .navbar{
     background-color: gray;
     border: 1px solid black;
+}
+
+h1 {
+    text-align: center;
+}
+
+.title {
+    font-size: medium;
+}
+.navbar-header{
+    width: 100%;
 }
