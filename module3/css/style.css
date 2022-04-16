@@ -21,7 +21,6 @@ body{
 
 .title {
     font-size: medium;
-    text-align: center;
     font-weight: bold;
     padding-top: 7px;
 }
@@ -50,3 +49,17 @@ p {
 .navbar-border {
     border: 1px solid black;
 }
+
+.bar-text{
+    border-top: 1px solid black;
+    font-weight: 600;
+}
+
+.bar-text-last{
+    text-align: center;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    font-weight: 600;
+}
+
+
